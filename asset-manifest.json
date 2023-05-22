@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mortage_calculator/static/js/main.95655fba.js",
+    "index.html": "/mortage_calculator/index.html",
+    "main.95655fba.js.map": "/mortage_calculator/static/js/main.95655fba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95655fba.js"
+  ]
+}
