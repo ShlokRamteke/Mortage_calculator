@@ -17,7 +17,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ShlokRamteke.github.io/mortage_calculator/",
+  "homepage": "https://shlokramteke.github.io/mortage_calculator/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
