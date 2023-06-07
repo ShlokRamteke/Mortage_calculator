@@ -36,11 +36,5 @@ Interest Calculator Screenshot
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- [React](https://reactjs.org/)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [React Slider](https://www.npmjs.com/package/react-slider)
-- [React Chart.js](https://www.npmjs.com/package/react-chartjs-2)
 
 
