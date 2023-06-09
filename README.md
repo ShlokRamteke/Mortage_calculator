@@ -5,7 +5,8 @@ This is a hobby project, which have helped me learn about building frontend with
 
 The Interest Calculator is a React app that allows users to calculate the amount of interest to be paid for a house based on the down payment, interest percentage, and tenure period. The app provides a graphical representation of the interest breakup using a pie chart and allows users to select the amount using a slider.
 
-Interest Calculator Screenshot
+
+Interest Calculator Screenshot([website](https://shlokramteke.github.io/mortage_calculator/))
 ![alt text](https://github.com/ShlokRamteke/mortage_calculator/blob/main/Screenshot%20from%202023-06-07%2010-10-52.png)
 
 ## Features
